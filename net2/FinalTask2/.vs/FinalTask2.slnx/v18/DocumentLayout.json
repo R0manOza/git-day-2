@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net2\\FinalTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A127049A-7EC0-44BF-9258-72B0921E9F4E}|FinalTask2\\FinalTask2.csproj|c:\\users\\romag\\onedrive\\desktop\\net\\net2\\finaltask2\\finaltask2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A127049A-7EC0-44BF-9258-72B0921E9F4E}|FinalTask2\\FinalTask2.csproj|solutionrelative:finaltask2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A127049A-7EC0-44BF-9258-72B0921E9F4E}|FinalTask2\\FinalTask2.csproj|c:\\users\\romag\\onedrive\\desktop\\net\\net2\\finaltask2\\finaltask2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A127049A-7EC0-44BF-9258-72B0921E9F4E}|FinalTask2\\FinalTask2.csproj|solutionrelative:finaltask2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net2\\FinalTask2\\FinalTask2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalTask2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net2\\FinalTask2\\FinalTask2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinalTask2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T04:39:18.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net2\\FinalTask2\\FinalTask2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalTask2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net2\\FinalTask2\\FinalTask2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalTask2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T04:36:31.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
