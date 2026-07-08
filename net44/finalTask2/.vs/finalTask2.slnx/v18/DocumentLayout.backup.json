@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net4\\finalTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A20857-B5E1-F2B2-E921-563A90DEAB34}|finalTask2\\finalTask2.csproj|c:\\users\\romag\\onedrive\\desktop\\net\\net4\\finaltask2\\finaltask2\\controllers\\mathcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A20857-B5E1-F2B2-E921-563A90DEAB34}|finalTask2\\finalTask2.csproj|solutionrelative:finaltask2\\controllers\\mathcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A20857-B5E1-F2B2-E921-563A90DEAB34}|finalTask2\\finalTask2.csproj|c:\\users\\romag\\onedrive\\desktop\\net\\net4\\finaltask2\\finaltask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A20857-B5E1-F2B2-E921-563A90DEAB34}|finalTask2\\finalTask2.csproj|solutionrelative:finaltask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A20857-B5E1-F2B2-E921-563A90DEAB34}|finalTask2\\finalTask2.csproj|c:\\users\\romag\\onedrive\\desktop\\net\\net4\\finaltask2\\finaltask2\\finaltask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11A20857-B5E1-F2B2-E921-563A90DEAB34}|finalTask2\\finalTask2.csproj|solutionrelative:finaltask2\\finaltask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net4\\finalTask2\\finalTask2\\Program.cs",
+              "RelativeDocumentMoniker": "finalTask2\\Program.cs",
+              "ToolTip": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net4\\finalTask2\\finalTask2\\Program.cs",
+              "RelativeToolTip": "finalTask2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:46:56.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "finalTask2",
+              "DocumentMoniker": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net4\\finalTask2\\finalTask2\\finalTask2.csproj",
+              "RelativeDocumentMoniker": "finalTask2\\finalTask2.csproj",
+              "ToolTip": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net4\\finalTask2\\finalTask2\\finalTask2.csproj",
+              "RelativeToolTip": "finalTask2\\finalTask2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-08T05:42:38.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathControllercs.cs",
+              "DocumentMoniker": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net4\\finalTask2\\finalTask2\\Controllers\\MathControllercs.cs",
+              "RelativeDocumentMoniker": "finalTask2\\Controllers\\MathControllercs.cs",
+              "ToolTip": "C:\\Users\\romag\\OneDrive\\Desktop\\net\\net4\\finalTask2\\finalTask2\\Controllers\\MathControllercs.cs",
+              "RelativeToolTip": "finalTask2\\Controllers\\MathControllercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:38:21.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

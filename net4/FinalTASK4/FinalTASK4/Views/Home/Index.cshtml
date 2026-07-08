@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<script type="text/javascript">
+    ws = new WebSocket("https://localhost:7027/Home/Talk");
+    ws.onmessage = function(evt) {alert(evt.data.toString());}
+    function sendclick()
+    {
+        ws.send(x.value);
+    }
+
+</script>
+<div>
+    <input type="text" id="x" />
+    <br/>
+    <input type="button" value="send" onclick="sendclick();"/>
+
+
+</div>
